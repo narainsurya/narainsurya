@@ -7,6 +7,7 @@ I'm Narain — and this is some stuff I've done.
 My very first project xD  
 Simple counter built using HTML, CSS, and JavaScript.  
 (We all start somewhere, right?)
+repo link : https://github.com/narainsurya/counter-web-app
 
 ---
 ## 🎧 Vibe-coded:
